@@ -14,4 +14,3 @@ void main(){
   n = 100;
   factorial(n);
 }
-//Test
