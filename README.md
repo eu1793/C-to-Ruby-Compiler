@@ -1,6 +1,6 @@
 # C to Ruby Compiler
 
-## Introductionn
+## Introduction
 
 This is an implementation of a Flex/Bison based compiler for parsing codes from C to Ruby. For this implementation, we will use the following tools:
 
