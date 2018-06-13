@@ -1,4 +1,4 @@
-# C to Ruby Compilerr 
+# C to Ruby Compiler
 
 ## Introduction
 
